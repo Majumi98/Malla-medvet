@@ -17,7 +17,7 @@ const cursos = {
   "Nutrición y Alimentación Animal": ["Praderas y Especies Forrajeras", "Fundamentos de Bioquímica"],
   "Fisiología Veterinaria": ["Fundamentos de Bioquímica", "Histoembriología Veterinaria"],
   "Práctica Inicial": ["Anatomía Animal I", "Ecología"],
-  "Inmunología General": [],
+  "Inmunología General": ["Biología Celular y Molecular","Fundamentos de Bioquímica"],
   "Bioestadística": ["Matemática"],
   "Electivo 2": [],
 
